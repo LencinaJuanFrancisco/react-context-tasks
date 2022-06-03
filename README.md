@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# Vamos a cear una lista de tareas 
+donde vamos a hacer foco en el uso de react context y redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## NPMs
 
-## Available Scripts
-
-In the project directory, you can run:
-
+- tailwindcss para darle los estilos
+- react-router-dom 
+- react-icons 
 ### `npm start`
 
 Runs the app in the development mode.\
